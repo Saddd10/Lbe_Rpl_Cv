@@ -1,0 +1,31 @@
+#data :hover{
+    color: red;
+}
+#name{
+    text-align: center;
+}
+#top
+{
+    background-color: cyan;
+    margin-bottom: 10px
+    }
+#skills{
+    text-align: left;
+    padding: 10px;
+    font-size: 12px;
+    }
+#skill-name{
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 20px 0;
+    }
+#skill-bar{
+    width: 100%;
+   background-color: #f2f2f2;
+   margin-bottom: 10px;
+   border-radius: 10px;
+    }
+#percentindo{text-align: center; width: 90%;background-color: #1E80FA}
+#percenteng{text-align: center; width: 80%;background-color:  #1E80FA}
+#percenthtml{text-align: center; width: 60%;background-color:  #1E80FA}
